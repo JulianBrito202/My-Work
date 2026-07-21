@@ -1,0 +1,119 @@
+ReceiptNo,Item_Description,Subtotal ,Savings ,Tax ,Total ,Pay_Method
+3,Irish Spring soap,1.25,0,0.09,1.34,Apple Pay
+4,Hanger closet,1.25,0,0.09,1.34,Apple Pay
+5,Hand sanitizer soap,1.25,0,0.09,1.34,Apple Pay
+6,Hander closet,1.25,0,0.09,1.34,Apple Pay
+7,Trolli Crawlers candy,1.25,0,0.09,1.34,Apple Pay
+8,HiChew Grape candy,1.25,0,0.09,1.34,Apple Pay
+9,SPK Watermelon candy,1.25,0,0.09,1.34,Apple Pay
+10,Bubble Gum Pops candy,1.25,0,0.09,1.34,Apple Pay
+11,Spray Bottle bathroom,1.25,0,0.09,1.34,Apple Pay
+12,Luminant TB Soft Case bathroom,1.25,0,0,1.25,Apple Pay
+13,Strawberry Filled Candy candy,1.25,0,0.09,1.34,Apple Pay
+14,Dum Dums candy,1.25,0,0.09,1.34,Apple Pay
+15,WH Lollipop candy,1.25,0,0.09,1.34,Apple Pay
+16,Jolly Rancher candy,1.25,0,0.09,1.34,Apple Pay
+17,Butterscotch Discs candy,1.25,0,0.09,1.34,Apple Pay
+18,Werther Orig Crml candy,1.25,0,0.09,1.34,Apple Pay
+19,Kitchn Fresh Caraml bathroom,1.25,0,0.09,1.34,Apple Pay
+20,WH Lollipop candy,1.25,0,0.09,1.34,Apple Pay
+21,Luminant TB Soft Case bathroom,1.25,0,0.09,1.34,Apple Pay
+22,Trident Cinnamon candy,1.25,0,0.09,1.34,Apple Pay
+23,Tic Tac Straw candy,1.25,0,0.09,1.34,Apple Pay
+24,Mini Chupchips candy,1.25,0,0.09,1.34,Apple Pay
+25,Airheads candy,1.25,0,0.09,1.34,Apple Pay
+26,Luminant TB Soft Case bathroom,1.25,0,0.09,1.34,Apple Pay
+27,Dead Rising 4: Frank's Big Package (1 item),9.99,0,0,9.99,VISA (******12)
+28,inFAMOUS™ 2 (1 item),7.99,7.99,0,0,VISA (******12)
+29,Star Wars® The Force Unleashed™ II,99.99,99.99,0,0,VISA (******12)
+30,XDefiant (1 item),5,0,0,5,VISA (******12)
+31,"Fortnite - 1,000 V-Bucks",8.99,0,0,8.99,VISA (******12)
+32,Mad Max,4.99,0,0,4.99,VISA (******12)
+33,Street Fighter™ 6 Deluxe Edition,42.5,42.5,0,0,VISA (******12)
+34,Inscryption (1 item),19.99,19.99,0,0,VISA (******12)
+35,Among Us (1 item),4.99,4.99,0,0,VISA (******12)
+36,NHL® 24 PS5™ (1 item),69.99,69.99,0,0,VISA (******12)
+37,Borderlands 3 PS4™ & PS5™ (1 item),59.99,59.99,0,0,VISA (******12)
+38,EA SPORTS™ College Football 25 (1 item),69.99,0,0,69.99,VISA (******12)
+39,Grand Theft Auto Online (PS5) (1 item),9.99,0,0,9.99,VISA (******12)
+40,METAL GEAR RISING: REVENGEANCE (1 item),19.99,0,0,19.99,VISA (******12)
+41,DmC Devil May Cry™ (19.99); PS All-Stars Battle Royale™ (9.99),29.98,0,0,29.98,VISA (******12)
+42,PlayStation Plus Premium 12-Month Subscription,159.99,0,0,159.99,VISA (******12)
+43,Conan Exiles (1 item),99.99,99.99,0,0,VISA (******12)
+44,Ultimate Pack (1 item),3.99,0,0,3.99,VISA (******12)
+45,ASTRO BOT (1 item),59.99,0,0,59.99,VISA (******12)
+46,Dead Space (1 item),69.99,69.99,0,0,VISA (******12)
+47,WWE 2K24 Cross-Gen Digital Edition (1 item),69.99,69.99,0,0,VISA (******12)
+48,Suicide Squad: Kill the Justice League – Digital Deluxe,19.99,0,0,19.99,VISA (******12)
+49,Batman: Return to Arkham (1 item),4.99,0,0,4.99,VISA (******12)
+50,Call of Duty: Black Ops 6 – Cross-Gen Bundle,69.99,0,0,69.99,VISA (******12)
+51,Darkseid (1 item),5.99,0,0,5.99,VISA (******12)
+52,The Outlast Trials (1 item),19.99,0,0,19.99,VISA (******12)
+53,PAYDAY 3 (1 item),29.99,29.99,0,0,VISA (******12)
+54,Split Fiction (49.99); SUPERHOT: MIND CONTROL DELETE (9.99),59.98,0,0,59.98,VISA (******12)
+55,Mortal Kombat™ 1: Khaos Reigns Expansion,16.49,0,0,16.49,VISA (******12)
+56,MARVEL RIVALS – 1000 LATTICE (1 item),9.99,0,0,9.99,VISA (******12)
+57,Fortnite (1 item),20,0,0,20,VISA (******12)
+58,PROTOTYPE™ (19.99); Max Payne® 3 (19.99); inFAMOUS™ Festival of Blood (4.99),44.97,0,0,44.97,VISA (******12)
+59,METAL GEAR SOLID: MASTER COLLECTION Vol.1,59.99,0,0,59.99,VISA (******12)
+60,Indiana Jones and the Great Circle,55.99,0,0,55.99,VISA (******12)
+61,NBA 2K25 Standard Edition (1 item),69.99,69.99,0,0,VISA (******12)
+62,Capcom Fighting Collection 2 (1 item),39.99,0,0,39.99,VISA (******12)
+63,Ready or Not (1 item),49.99,0,0,49.99,VISA (******12)
+64,Psychonauts 2 (1 item),59.99,59.99,0,0,VISA (******12)
+65,METAL GEAR SOLID®: PEACE WALKER (1 item),19.99,0,0,19.99,VISA (******12)
+66,PlayStation®Vita Fireworks (1 item),100,0,0,100,VISA (******12)
+67,Frobisher Says! (1 item),20,0,0,20,VISA (******12)
+68,skate.™ (1 item),$0.00 ,0,0,$0.00 ,VISA (******12)
+69,Grand Theft Auto V (1 item),$60.00 ,60,0,$0.00 ,VISA (******12)
+70,Overcooked (1 item),$20.00 ,20,0,$0.00 ,VISA (******12)
+71,Hue (1 item),$40.00 ,0,0,$40.00 ,VISA (******12)
+72,Wilmot’s Warehouse (1 item),$12.00 ,0,0,$12.00 ,VISA (******12)
+73,Remnant: From the Ashes (1 item),$4.00 ,0,0,$4.00 ,VISA (******12)
+74,Rising Storm 2: Vietnam (1 item),$20.00 ,0,0,$20.00 ,VISA (******12)
+75,NBA Top Shot purchase,$9.78 ,0,0,$9.78 ,Debit (VISA ******46)
+76,LG UM6702RC-DH TV,"$1,399.99 ",$100.00 ,$105.00 ,"$1,504.99 ",Debit (VISA ******46)
+77,Membership Payment,$60.00 ,0,0,$60.00 ,PayPal
+78,Apartment Payment,$55.00 ,0,$1.65 ,$56.65 ,VISA (****9512)
+79,"General Admission (2 tickets), Student Ticket",$28.00 ,0,$0.00 ,$28.00 ,VISA (****9512)
+80,2024–25 Non-Resident Student Annual Virtual Parking Permit,$196.73 ,0,0,$196.73 ,VISA (****9512)
+81,Monthly Rent Payment,$848.40 ,0,$1.95 ,$850.35 ,eCheck x3312
+82,Turkey Sausage & Cheddar Egg Sandwich (Qty: 1; Plain; 2 Eggs; No Side),7.69,0,0.98,8.67,Apple Pay
+83,Spicy Chicken Sandwich (Qty: 1; w/ Chick-fil-A Sauce),5.39,0,0.35,5.74,Chick-fil-A One Card
+84,Chick-n-Strips 3 ct (Qty: 1; w/ Zesty Buffalo Sauce); Medium Mac & Cheese (Qty: 1),8.19,0,0.31,8.5,Chick-fil-A One Card
+85,Medium Mac & Cheese (Qty: 1; $4.10); Nuggets 8 ct (Qty: 1; w/ Zesty Buffalo Sauce x2; $5.10),9.3,0,0.78,10.08,Visa
+86,Space Lime Continuum - Indigo (3.5g; $49.00 ea); Manager’s Special - Select 8ths ($30.00),49,30,0,19,Debit
+87,Taco Carnitas (Qty: 1; $3.25); Taco Camaron (Qty: 1; $3.89); Flour (Qty: 1; $0.34),7.48,0,0.74,8.22,Visa
+88,Pork Sausage & Cheddar Egg Sandwich (Qty: 1; No Jalapeno; 2 Eggs; No Side),8.49,0,1.06,9.55,Apple Pay
+89,"Classic Pepperoni (Qty: 1, 200 cal); Pretzel Crust w/ Cheese Sauce & Pepperoni (Qty: 1, 190 cal)",14.26,0,1.08,16.21,Visa
+90,"Lyft Ride (11.6 mi, 19m 35s; Pickup: 101 E Tyler St; Drop-off: 14724 Oak Vine Dr)",29.8,0,4.47,34.27,Apple Pay
+91,"VIKHAMMER rstnd 23×5/8×15""; MICKE desk 55×7/8×19"" black; Hot Dog",175.98,15,18.2,189.18,Visa
+92,Lyft Ride (2.0 mi),19.9,0,3,22.9,Apple Pay
+93,Double Cheeseburger Valid 1x Day (Qty: 1); 10 pc McNuggets (Qty: 1); Sweet N Sour Sauce (Qty: 1),6.69,1.49,0.5,7.19,Visa
+94,Quarter Pounder w/ Cheese (Qty: 1); Bacon Quarter Pounder w/ Cheese (Qty: 1); 3 pc McCrispy Strips Dip (Qty: 1); Creamy Chili McCrispy Strip Dip (Qty: 1),9.57,2.01,0.72,10.29,Visa
+95,Whole Hog Burrito; Scrambled Egg; Flour Tortilla; Fruit Cup,16.5,0,1.8,18.3,Visa
+96,"Uber Ride (12.4 mi, 25m; Pickup 6:38 PM Wesley Chapel; Drop-off 7:04 PM Cove Bend Dr)",17,0,8.76,27.93,Visa
+97,Chick-n-Minis 4 ct (Qty: 1); Honey Chick-n-Minis (Qty: 1); Small Hash Browns (Qty: 1),6.4,0,0.42,6.82,Apple Pay
+98,Falafel gyro with fries (Quantity 1),12.99,0,0.84,13.83,American Express
+99,"Lamb rice (Quantity 1), Fries (Quantity 1)",15.98,0,1.04,17.02,Cash
+100,"Chicken rice (Quantity 1), Lamb rice (Quantity 1)",24.98,0,1.62,26.6,Visa
+101,"Philly steak (Quantity 1), Lamb gyro with fries (Quantity 1)",25.98,0,1.69,27.67,Cash
+102,Double burger (Quantity 1),7.99,0,0.52,8.51,Mastercard
+103,"Single burger (Quantity 1), Cheese fries (Quantity 1)",11.98,0.78,1.8,13.78,Mastercard
+104,Chicken cheese fries (Quantity 2),27.98,1.52,6,33.98,US Debit
+105,Steak rice (Quantity 1),10.99,0,0.71,11.7,Mastercard
+106,"Chicken rice (Quantity 1), Extra lamb (Quantity 1), Hot sauce (Quantity 1)",16.99,0,1.1,18.09,Mastercard
+107,"Philly steak (Quantity 1), Wings with fries (Quantity 1), Extra cheese (Quantity 1), Hot sauce (Quantity 1)",31.98,0,2.08,33.98,Mastercard
+108,Single burger wit da sauce (Quantity 1),7.32,0,0.39,7.71,Mastercard
+109,Swisher Sweets (Qty: 1),1.39,0,0.1,1.49,Credit Card Manual
+110,Mentos gum (Qty: 1),3.98,0,0.3,4.28,Credit Card Manual
+111,White Claw (Qty: 1),29.76,0,2.7,32.46,Credit Card Manual
+112,"Chicken Rice, small chicken rice, No Vegetables, Extra Sauce (Qty: 1)",10.99,0,0.71,11.7,Cash
+113,"Steak Rice, Extra Steak ($3.00), No Vegetables, Fries Small (Qty: 1)",21.98,0,1.43,23.41,American Express (Contactless)
+114,Honey Pack (Quantity 1),8.92,0,0.62,9.54,Cash
+115,Chicken Tender (Quantity 1),5.99,0,1.39,7.38,Mastercard
+116,Single burger (Quantity 1),5.99,0,0.39,6.38,Mastercard
+117,Dr Pepper 20oz (Qty 1),2.59,0,0.19,2.78,Discover 
+118,Fanta Orange Glass Btl 12oz (Qty 1),5.29,0,0.17,5.46,Credit Card Manual 
+119,Delta 8 Flower 3.5 Gram New (Qty 1),29.99,0,2.25,32.24,Mastercard
+120,Fanta Pineapple 20oz (Qty 1),15.99,0,1.62,17.61,Credit Card Manual 

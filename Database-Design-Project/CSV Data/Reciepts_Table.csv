@@ -1,0 +1,151 @@
+﻿ReceiptNo,Type,Owner,Store_ID
+1,Retail,DG,196
+2,Retail,DG,196
+3,Retail,DG,196
+4,Retail,DG,196
+5,Retail,DG,196
+6,Retail,DG,196
+7,Retail,DG,196
+8,Retail,DG,196
+9,Retail,DG,196
+10,Retail,DG,196
+11,Retail,DG,196
+12,Retail,DG,196
+13,Retail,DG,196
+14,Retail,DG,196
+15,Retail,DG,196
+16,Retail,DG,196
+17,Retail,DG,196
+18,Retail,DG,196
+19,Retail,DG,196
+20,Retail,DG,196
+21,Retail,DG,196
+22,Retail,DG,196
+23,Retail,DG,196
+24,Retail,DG,196
+25,Retail,DG,196
+26,Retail,DG,196
+27,Retail,DG,196
+28,Retail,DG,196
+29,Retail,DG,196
+30,Retail,DG,196
+31,Retail,DG,196
+32,Retail,DG,196
+33,Retail,DG,196
+34,Retail,DG,196
+35,Retail,DG,196
+36,Retail,DG,196
+37,Retail,DG,196
+38,Retail,DG,196
+39,Product purchase,JB,         F1******
+40,Product purchase,JB,         F1******
+41,Product purchase,JB,         F1******
+42,Product purchase,JB,         F1******
+43,Product purchase,JB,         F1******
+44,Product purchase,JB,         F1******
+45,Product purchase,JB,         F1******
+46,Product purchase,JB,         F1******
+47,Product purchase,JB,         F1******
+48,Product purchase,JB,         F1******
+49,Product purchase,JB,         F1******
+50,Product purchase,JB,         F1******
+51,Product purchase,JB,         F1******
+52,Product purchase,JB,         F1******
+53,Product purchase,JB,         F1******
+54,Product purchase,JB,         F1******
+55,Product purchase,JB,         F1******
+56,Product purchase,JB,         F1******
+57,Product purchase,JB,         F1******
+58,Product purchase,JB,         F1******
+59,Product purchase,JB,         F1******
+60,Product purchase,JB,         F1******
+61,Product purchase,JB,         F1******
+62,Product purchase,JB,         F1******
+63,Product purchase,JB,         F1******
+64,Product purchase,JB,         F1******
+65,Product purchase,JB,         F1******
+66,Product purchase,JB,         F1******
+67,Product purchase,JB,         F1******
+68,Product purchase,JB,         F1******
+69,Product purchase,JB,         F1******
+70,Product purchase,JB,         F1******
+71,Product purchase,JB,         F1******
+72,Product purchase,JB,         F1******
+73,Product purchase,JB,         F1******
+74,Product purchase,JB,         F1******
+75,Product purchase,JB,         F1******
+76,Product purchase,JB,         F1******
+77,Product purchase,JB,         F1******
+78,Product purchase,JB,         F1******
+79,Product purchase,JB,         F1******
+80,Product purchase,JB,         F1******
+81,Product purchase,JB,         F1******
+82,Product purchase,JB,         F1******
+83,Product purchase,JB,         F1******
+84,Product purchase,JB,         F1******
+85,Product purchase,JB,         F1******
+86,Product purchase,JB,         F1******
+87,Product purchase,JB,       AlexB 
+88,Product purchase,JB,       AlexB 
+89,Product purchase,JB,       AlexB 
+90,Product purchase,JB,       AlexB 
+91,Product purchase,JB,       AlexB 
+92,Sales Receipt,JB,561
+93,Payment,JB,12
+94,Rent Payment,JB,887
+95,Ticket Receipt,JB,1
+96,Parking Permit,JB,3
+97,Rent Payment,JB,887
+98,Rent Payment,JB,887
+99,Rent Payment,JB,887
+100,Rent Payment,JB,887
+101,Order Receipt,TD,317
+102,Order Receipt,TD,170
+103,Order Receipt,TD,170
+104,Order Receipt,TD,170
+105,Order Receipt,TD,170
+106,In-Store Printed,TD,64
+107,Online Takeout,TD,541
+108,Order Receipt,TD,317
+109,Order Receipt,TD,317
+110,Order Receipt,TD,317
+111,In-Store Printed,TD,212
+112,Ride Receipt,TD,327
+113,Sales Receipt,TD,4
+114,Ride Receipt,TD,327
+115,Ride Receipt,TD,327
+116,Order Receipt,TD,415
+117,Order Receipt,TD,415
+118,Order Receipt,TD,415
+119,Order Receipt,TD,415
+120,Order Receipt,TD,415
+121,Order Receipt,TD,47
+122,Ride Receipt,TD,230
+123,Ride Receipt,TD,230
+124,Ride Receipt,TD,230
+125,Order Receipt,TD,170
+126,Order Receipt,S,413
+127,Order Receipt,S,413
+128,Order Receipt,S,413
+129,Order Receipt,S,413
+130,Order Receipt,S,413
+131,Order Receipt,S,413
+132,Order Receipt,S,413
+133,Order Receipt,S,413
+134,Order Receipt,S,413
+135,Order Receipt,S,413
+136,Order Receipt,S,413
+137,Order Receipt,S,413
+138,In-Store Printed,S,190
+139,In-Store Printed,S,190
+140,In-Store Printed,S,190
+141,Order Receipt,S,413
+142,Order Receipt,S,413
+143,Order Receipt,S,413
+144,In-Store Printed,S,190
+145,In-Store Printed,S,190
+146,In-Store Printed,S,190
+147,In-Store Printed,S,190
+148,In-Store Printed,S,190
+149,In-Store Printed,S,190
+150,In-Store Printed,S,190

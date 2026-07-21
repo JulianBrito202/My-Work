@@ -1,0 +1,5 @@
+USE [EERDBS-20];
+GO
+
+ALTER TABLE Purchase_Table ADD Category NVARCHAR(20) NULL;
+
